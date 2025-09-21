@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+}
+
+header {
+    background-color: #00ccff;
+    color: white;
+    padding: 50px 20px;
+}
+
+.features {
+    padding: 20px;
+}
+
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features li {
+    margin: 10px 0;
+}
+
+.cta {
+    margin: 30px 0;
+}
+
+.open-app-btn {
+    text-decoration: none;
+    background-color: #00ccff;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 18px;
+    transition: background 0.3s;
+}
+
+.open-app-btn:hover {
+    background-color: #00ccff;
+}
+
+footer {
+    background: #746f6f;
+    color: white;
+    padding: 20px;
+}
